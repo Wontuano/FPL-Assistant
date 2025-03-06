@@ -49,7 +49,7 @@ function App() {
                         </li>
                     ))
                 ) : (
-                    <p>No players found</p>
+                    <p>No players found!</p>
                 )}
             </ul>
         </div>
